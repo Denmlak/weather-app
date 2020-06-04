@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Weather App</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="style.css">
+	<link href="https://fonts.googleapis.com/css2?family=Balsamiq+Sans:wght@700&display=swap" rel="stylesheet"> 
+	<script defer src="script.js"></script>
+</head>
+<body>
+	<div class="description">
+		<h1>Weather  App</h1>
+		<input type="text" class="search" placeholder="Search for city..." autocomplete="off">
+		<p class="notification">No such city has been found, please try again...</p>
+	</div>	
+	<div class="container">
+		<section class="location">
+			<div class="city"> - , - </div>
+		</section>
+		<section class="current-weather">
+			<div class="icon">
+				<img src="icon/unknown.png" alt="unknown">
+			</div>
+			<div class="temp"> - <span>°C</span></div>
+			<div class="weather"> - </div>
+			<div class="wind"> Wind : - <span>m/s</span></div>
+		</section>
+	</div>	
+</body>
+</html>

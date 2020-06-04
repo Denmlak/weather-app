@@ -1,0 +1,76 @@
+*{
+	margin: 0;
+	padding:0;
+	box-sizing: border-box;
+}
+
+body{
+	min-height: 100vh;
+	background-image: url(index.jpg);
+	background-size: cover;
+	color: #fff;
+	font-family: Balsamiq Sans;
+}
+
+.description, .container{
+	text-align: center;
+	margin: 30px 0 20px 0;
+}
+
+.description{
+	margin-top: 50px;
+}
+
+.description h1{
+	margin-bottom: 20px;
+	text-transform: uppercase;
+	font-size: 3em;
+	letter-spacing: 5px;
+	text-shadow: 2px 2px #000000;
+}
+
+.description input{
+	width: 100%;
+	max-width: 200px;
+	border: 1px solid black;
+	outline: none;
+	border-radius: 5px;
+	padding: 8px;
+	margin-top: 10px;
+	font-size: 1.2em;
+	color: #fff;
+	background-color: rgba(0,0,0,0.4);	
+}
+
+.description .notification{
+	margin-top: 10px;
+	font-size: 1.2em;
+	visibility: hidden;
+}
+
+.container{
+	border: 1px solid black;
+	border-radius: 10px;
+	width: 300px;
+	margin:auto;
+	padding: 15px;
+	background-color: rgba(0,0,0,0.4);
+
+}
+
+.location .city{
+	font-size: 1.5em;
+}
+
+.current-weather .temp{
+	font-size: 2.2em;
+}
+
+.current-weather .weather{
+	font-size: 1.3em;
+	margin-bottom: 10px;
+}
+
+.container .icon{
+	margin: 15px 0;
+}
