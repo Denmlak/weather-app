@@ -14,3 +14,8 @@ I made this project in eduactional purposes with Vannila JS.
 <ul>
   <li> <a href="https://openweathermap.org/api"></a> OpenWeather </li>
 </ul>
+
+<h4>Features</h4>
+<ul>
+  <li> <a href="https://github.com/manifestinteractive/weather-underground-icons"></a> weather underground icons </li>
+</ul>
