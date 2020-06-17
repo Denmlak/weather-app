@@ -12,10 +12,10 @@ I made this project in eduactional purposes with Vannila JS.
 
 <h4>API s:</h4>
 <ul>
-  <li> <a href="https://openweathermap.org/api"></a> OpenWeather </li>
+  <li> <a href="https://openweathermap.org/api"> OpenWeather </li></a>
 </ul>
 
 <h4>Features</h4>
 <ul>
-  <li> <a href="https://github.com/manifestinteractive/weather-underground-icons"></a> weather underground icons </li>
+  <li> <a href="https://github.com/manifestinteractive/weather-underground-icons">weather underground icons </li></a> 
 </ul>
