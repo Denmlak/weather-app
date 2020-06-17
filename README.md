@@ -9,3 +9,8 @@ I made this project in eduactional purposes with Vannila JS.
 <li>CSS3</li>
 <li>Javascript</li>
 </ul>
+
+<h4>API s:</h4>
+<ul>
+  <li> <a href="https://openweathermap.org/api"></a> OpenWeather </li>
+</ul>
